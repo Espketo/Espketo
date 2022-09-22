@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## Olá, eu sou o Samuel Rodrigues e sou estudante de Programação! 🤜🤛
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/Espketo">
@@ -6,7 +10,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espketo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ <div align="center">
+   
  ## Tecnologias Utilizadas 🖥️🖥️🖥️
+   
+ </div>
   
 <div style="display: inline_block"><br>
  
