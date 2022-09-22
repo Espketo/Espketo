@@ -12,7 +12,7 @@
   
  <div align="center">
    
- ## Tecnologias Utilizadas 🖥️🖥️🖥️
+ ## 🖥️ Tecnologias Utilizadas 🖥️
    
  </div>
   
